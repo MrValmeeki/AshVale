@@ -87,7 +87,7 @@ The game is built using:
 
 If you want to modify the code or make any changes, download everything 
 
-*** SFML 3.0.0 is a must if you want to modify or change the code ***
+** SFML 3.0.0 is a must if you want to modify or change the code **
 
 - "TileMapEditor.cpp" is for making custom maps
 - "MapManager.h" helps load the custom maps into the game
